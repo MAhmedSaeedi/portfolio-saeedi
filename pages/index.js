@@ -68,7 +68,7 @@ class Index extends React.Component {
                       <div className="hero-section-content">
                         <h2> Get Your Projects Done </h2>
                         <div className="hero-section-content-intro">
-                          Profesional and top quality service in web development.
+                          Profesional and top quality service in web and blockchain development.
                         </div>
                       </div>
                       <img alt="Guy programming welcome picture" className="image" src="/static/images/section-2.jpg"/>
