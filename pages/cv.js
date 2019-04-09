@@ -17,7 +17,7 @@ class Cv extends React.Component {
                   Download
                 </a>
               </div>
-              <iframe style={{width: '100%', height: '800px'}} src="/static/jerga_cv.pdf">
+              <iframe style={{width: '100%', height: '800px'}} src="/static/MuhammadAhmedSaeedi.pdf">
               </iframe>
             </Col>
           </Row>
