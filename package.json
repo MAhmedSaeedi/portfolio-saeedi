@@ -1,12 +1,12 @@
 {
-  "name": "portfolio-jerga",
+  "name": "portfolio-saeedi",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node server/index.js",
     "build": "next build",
-    "start": "NODE_ENV=production node server/index.js",
+    "start": "SET NODE_ENV=production node server/index.js",
     "heroku-postbuild": "npm run build"
   },
   "keywords": [],
